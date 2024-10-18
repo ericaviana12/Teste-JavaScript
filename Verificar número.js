@@ -4,8 +4,8 @@
  */
 
 // Importar bibliotecas necessárias
-const input = require('readline-sync'); // Biblioteca readline-sync
-const colors = require('colors'); // Biblioteca colors
+const input = require('readline-sync'); // Biblioteca readline-sync para ler entradas do usuário
+const colors = require('colors'); // Biblioteca colors para adicionar cores ao texto no console
 
 // Variáveis - O algoritmo
 let numero;
