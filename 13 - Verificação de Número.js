@@ -34,7 +34,7 @@ if (numero % 2 === 0) {
 Explicação detalhada dos principais itens usados
     
 Bibliotecas:
-- readline-sync: Usada para capturar a entrada do usuário no terminal.
+- readline-sync: Usada para capturar a entrada de dados pelo usuário no terminal.
 - colors: Utilizada para exibir o resultado com cores no console.
 
 Estrutura:
