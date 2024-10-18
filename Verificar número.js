@@ -8,7 +8,7 @@ const input = require('readline-sync') // Biblioteca readline-sync para ler entr
 const colors = require('colors') // Biblioteca colors para adicionar cores ao texto no console
 
 // Variáveis - O algoritmo
-let numero
+let numero // Declara variáveis para armazenar os números, a operação e o resultado
 
 // Limpar a tela do console antes de uma nova entrada
 console.clear()
