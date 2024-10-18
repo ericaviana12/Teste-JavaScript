@@ -54,7 +54,7 @@ console.log(`Resultado: ${resultado}`.blue); // Exibe o resultado formatado em a
 Explicação detalhada dos principais itens usados
 
 Bibliotecas:
-- readline-sync: Para entrada do usuário.
+- readline-sync: Para entrada de dados pelo usuário.
 - colors: Para exibir o resultado com cores.
 
 Estrutura:
