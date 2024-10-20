@@ -1,3 +1,3 @@
 ## Teste JavaScript
 
-Repositório para estudo de códigos na linguagem de JavaScript
+Repositório para estudo da linguagem de JavaScript
